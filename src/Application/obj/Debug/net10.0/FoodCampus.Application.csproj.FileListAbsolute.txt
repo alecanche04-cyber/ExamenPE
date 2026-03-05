@@ -1,0 +1,15 @@
+C:\Users\maria\FoodCampus\src\Application\bin\Debug\net10.0\FoodCampus.Application.deps.json
+C:\Users\maria\FoodCampus\src\Application\bin\Debug\net10.0\FoodCampus.Application.dll
+C:\Users\maria\FoodCampus\src\Application\bin\Debug\net10.0\FoodCampus.Application.pdb
+C:\Users\maria\FoodCampus\src\Application\bin\Debug\net10.0\FoodCampus.Domain.dll
+C:\Users\maria\FoodCampus\src\Application\bin\Debug\net10.0\FoodCampus.Domain.pdb
+C:\Users\maria\FoodCampus\src\Application\obj\Debug\net10.0\FoodCampus.Application.csproj.AssemblyReference.cache
+C:\Users\maria\FoodCampus\src\Application\obj\Debug\net10.0\FoodCampus.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\FoodCampus\src\Application\obj\Debug\net10.0\FoodCampus.Application.AssemblyInfoInputs.cache
+C:\Users\maria\FoodCampus\src\Application\obj\Debug\net10.0\FoodCampus.Application.AssemblyInfo.cs
+C:\Users\maria\FoodCampus\src\Application\obj\Debug\net10.0\FoodCampus.Application.csproj.CoreCompileInputs.cache
+C:\Users\maria\FoodCampus\src\Application\obj\Debug\net10.0\FoodCamp.DDF4F499.Up2Date
+C:\Users\maria\FoodCampus\src\Application\obj\Debug\net10.0\FoodCampus.Application.dll
+C:\Users\maria\FoodCampus\src\Application\obj\Debug\net10.0\refint\FoodCampus.Application.dll
+C:\Users\maria\FoodCampus\src\Application\obj\Debug\net10.0\FoodCampus.Application.pdb
+C:\Users\maria\FoodCampus\src\Application\obj\Debug\net10.0\ref\FoodCampus.Application.dll

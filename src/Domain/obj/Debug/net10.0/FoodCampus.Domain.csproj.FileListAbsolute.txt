@@ -1,0 +1,11 @@
+C:\Users\maria\FoodCampus\src\Domain\bin\Debug\net10.0\FoodCampus.Domain.deps.json
+C:\Users\maria\FoodCampus\src\Domain\bin\Debug\net10.0\FoodCampus.Domain.dll
+C:\Users\maria\FoodCampus\src\Domain\bin\Debug\net10.0\FoodCampus.Domain.pdb
+C:\Users\maria\FoodCampus\src\Domain\obj\Debug\net10.0\FoodCampus.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\FoodCampus\src\Domain\obj\Debug\net10.0\FoodCampus.Domain.AssemblyInfoInputs.cache
+C:\Users\maria\FoodCampus\src\Domain\obj\Debug\net10.0\FoodCampus.Domain.AssemblyInfo.cs
+C:\Users\maria\FoodCampus\src\Domain\obj\Debug\net10.0\FoodCampus.Domain.csproj.CoreCompileInputs.cache
+C:\Users\maria\FoodCampus\src\Domain\obj\Debug\net10.0\FoodCampus.Domain.dll
+C:\Users\maria\FoodCampus\src\Domain\obj\Debug\net10.0\refint\FoodCampus.Domain.dll
+C:\Users\maria\FoodCampus\src\Domain\obj\Debug\net10.0\FoodCampus.Domain.pdb
+C:\Users\maria\FoodCampus\src\Domain\obj\Debug\net10.0\ref\FoodCampus.Domain.dll

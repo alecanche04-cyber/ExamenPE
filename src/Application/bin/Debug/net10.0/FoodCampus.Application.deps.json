@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "FoodCampus.Application/1.0.0": {
+        "dependencies": {
+          "FoodCampus.Domain": "1.0.0"
+        },
+        "runtime": {
+          "FoodCampus.Application.dll": {}
+        }
+      },
+      "FoodCampus.Domain/1.0.0": {
+        "runtime": {
+          "FoodCampus.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FoodCampus.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FoodCampus.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
