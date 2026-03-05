@@ -132,3 +132,36 @@ Ayúdame a corregir los errores. (Error CS0116 y otros: código de prueba de con
 
 ## Prompt 12 - Agregar prompts finales al archivo prompts.md
 Agrega los prompts finales al archivo prompts.md.
+
+## Prompt 13 - Corregir errores de CLI y migraciones EF
+Lee el CLI y ayúdame a corregir los errores.
+
+Cambios aplicados:
+1. Se instaló `dotnet-ef` globalmente para habilitar comandos de migración.
+2. Se agregó `Microsoft.EntityFrameworkCore.Design` al proyecto `src/API/FoodCampus.API.csproj` para que `dotnet ef` funcione con `--startup-project src/API`.
+3. Se creó la migración `InitialCreate` y se ejecutó `dotnet ef database update` exitosamente contra Somee.
+
+## Prompt 14 - Error al agregar restaurante por formato de hora
+Lee el CLI: no me está dejando agregar nuevos restaurantes.
+
+Cambio aplicado:
+1. Se corrigió `LeerHora` en `src/API/Menu.cs` para aceptar solo formato `HH:mm` o `H:mm` y evitar que entradas como `12` se interpreten como 12 días (`12.00:00:00`), lo cual provocaba `OverflowException` en SQL Server `time`.
+
+---
+
+## Prompts - Base de Datos Somee
+
+### Prompt 15 - Script SQL Server compatible con Somee
+Genera un script SQL Server para crear la base de datos `[NOMBRE_DB]` con las siguientes características:
+
+1. Tablas: `[Lista de tablas]`
+2. Claves primarias y relaciones
+3. Restricciones específicas: `[NOT NULL, UNIQUE, CHECK, etc.]`
+4. Límites de negocio: `[ej. máximo 15 registros]`
+5. Datos de prueba: `[cantidad y tipo]`
+6. Compatibilidad: `[SQL Server/Somee/Azure/etc.]`
+
+Cambios aplicados:
+1. Se reemplazó `db-scripts/schema.sql` con esquema completo de `Restaurantes`, `Clientes`, `Pedidos` y `DetallesPedido`.
+2. Se agregaron PK/FK, `UNIQUE`, `CHECK`, índices y triggers de negocio (`max 15 restaurantes`, `pedido con al menos un detalle`).
+3. Se reemplazó `db-scripts/seed.sql` con datos de prueba realistas y carga transaccional compatible con los triggers.
