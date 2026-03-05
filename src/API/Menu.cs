@@ -24,7 +24,7 @@ public class Menu(
             Console.WriteLine("╠══════════════════════════════╣");
             Console.WriteLine("║  1. Listar Restaurantes      ║");
             Console.WriteLine("║  2. Agregar Restaurante      ║");
-            Console.WriteLine("║  3. Registrar Pedido         ║");
+            Console.WriteLine("║  3. Registrar Pedido         ║");1
             Console.WriteLine("║  4. Listar Pedidos x Cliente ║");
             Console.WriteLine("║  5. Salir                    ║");
             Console.WriteLine("╚══════════════════════════════╝");

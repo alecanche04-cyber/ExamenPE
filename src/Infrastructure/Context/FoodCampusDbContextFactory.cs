@@ -34,3 +34,4 @@ public class FoodCampusDbContextFactory : IDesignTimeDbContextFactory<FoodCampus
         return new FoodCampusDbContext(optionsBuilder.Options);
     }
 }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
