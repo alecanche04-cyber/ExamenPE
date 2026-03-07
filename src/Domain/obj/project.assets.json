@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maria\\FoodCampus\\src\\Domain\\FoodCampus.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\maria\\ExamenPE\\src\\Domain\\FoodCampus.Domain.csproj",
       "projectName": "FoodCampus.Domain",
-      "projectPath": "C:\\Users\\maria\\FoodCampus\\src\\Domain\\FoodCampus.Domain.csproj",
+      "projectPath": "C:\\Users\\maria\\ExamenPE\\src\\Domain\\FoodCampus.Domain.csproj",
       "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maria\\FoodCampus\\src\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\maria\\ExamenPE\\src\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config"

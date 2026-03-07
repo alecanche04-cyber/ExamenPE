@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maria\\FoodCampus\\src\\API\\FoodCampus.API.csproj": {}
+    "C:\\Users\\maria\\ExamenPE\\src\\API\\FoodCampus.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maria\\FoodCampus\\src\\API\\FoodCampus.API.csproj": {
+    "C:\\Users\\maria\\ExamenPE\\src\\API\\FoodCampus.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maria\\FoodCampus\\src\\API\\FoodCampus.API.csproj",
+        "projectUniqueName": "C:\\Users\\maria\\ExamenPE\\src\\API\\FoodCampus.API.csproj",
         "projectName": "FoodCampus.API",
-        "projectPath": "C:\\Users\\maria\\FoodCampus\\src\\API\\FoodCampus.API.csproj",
+        "projectPath": "C:\\Users\\maria\\ExamenPE\\src\\API\\FoodCampus.API.csproj",
         "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maria\\FoodCampus\\src\\API\\obj\\",
+        "outputPath": "C:\\Users\\maria\\ExamenPE\\src\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\maria\\FoodCampus\\src\\Application\\FoodCampus.Application.csproj": {
-                "projectPath": "C:\\Users\\maria\\FoodCampus\\src\\Application\\FoodCampus.Application.csproj"
+              "C:\\Users\\maria\\ExamenPE\\src\\Application\\FoodCampus.Application.csproj": {
+                "projectPath": "C:\\Users\\maria\\ExamenPE\\src\\Application\\FoodCampus.Application.csproj"
               },
-              "C:\\Users\\maria\\FoodCampus\\src\\Infrastructure\\FoodCampus.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\maria\\FoodCampus\\src\\Infrastructure\\FoodCampus.Infrastructure.csproj"
+              "C:\\Users\\maria\\ExamenPE\\src\\Infrastructure\\FoodCampus.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\maria\\ExamenPE\\src\\Infrastructure\\FoodCampus.Infrastructure.csproj"
               }
             }
           }
@@ -356,14 +356,14 @@
         }
       }
     },
-    "C:\\Users\\maria\\FoodCampus\\src\\Application\\FoodCampus.Application.csproj": {
+    "C:\\Users\\maria\\ExamenPE\\src\\Application\\FoodCampus.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maria\\FoodCampus\\src\\Application\\FoodCampus.Application.csproj",
+        "projectUniqueName": "C:\\Users\\maria\\ExamenPE\\src\\Application\\FoodCampus.Application.csproj",
         "projectName": "FoodCampus.Application",
-        "projectPath": "C:\\Users\\maria\\FoodCampus\\src\\Application\\FoodCampus.Application.csproj",
+        "projectPath": "C:\\Users\\maria\\ExamenPE\\src\\Application\\FoodCampus.Application.csproj",
         "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maria\\FoodCampus\\src\\Application\\obj\\",
+        "outputPath": "C:\\Users\\maria\\ExamenPE\\src\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -378,8 +378,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\maria\\FoodCampus\\src\\Domain\\FoodCampus.Domain.csproj": {
-                "projectPath": "C:\\Users\\maria\\FoodCampus\\src\\Domain\\FoodCampus.Domain.csproj"
+              "C:\\Users\\maria\\ExamenPE\\src\\Domain\\FoodCampus.Domain.csproj": {
+                "projectPath": "C:\\Users\\maria\\ExamenPE\\src\\Domain\\FoodCampus.Domain.csproj"
               }
             }
           }
@@ -693,14 +693,14 @@
         }
       }
     },
-    "C:\\Users\\maria\\FoodCampus\\src\\Domain\\FoodCampus.Domain.csproj": {
+    "C:\\Users\\maria\\ExamenPE\\src\\Domain\\FoodCampus.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maria\\FoodCampus\\src\\Domain\\FoodCampus.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\maria\\ExamenPE\\src\\Domain\\FoodCampus.Domain.csproj",
         "projectName": "FoodCampus.Domain",
-        "projectPath": "C:\\Users\\maria\\FoodCampus\\src\\Domain\\FoodCampus.Domain.csproj",
+        "projectPath": "C:\\Users\\maria\\ExamenPE\\src\\Domain\\FoodCampus.Domain.csproj",
         "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maria\\FoodCampus\\src\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\maria\\ExamenPE\\src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1026,14 +1026,14 @@
         }
       }
     },
-    "C:\\Users\\maria\\FoodCampus\\src\\Infrastructure\\FoodCampus.Infrastructure.csproj": {
+    "C:\\Users\\maria\\ExamenPE\\src\\Infrastructure\\FoodCampus.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maria\\FoodCampus\\src\\Infrastructure\\FoodCampus.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\maria\\ExamenPE\\src\\Infrastructure\\FoodCampus.Infrastructure.csproj",
         "projectName": "FoodCampus.Infrastructure",
-        "projectPath": "C:\\Users\\maria\\FoodCampus\\src\\Infrastructure\\FoodCampus.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\maria\\ExamenPE\\src\\Infrastructure\\FoodCampus.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maria\\FoodCampus\\src\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\maria\\ExamenPE\\src\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1048,8 +1048,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\maria\\FoodCampus\\src\\Application\\FoodCampus.Application.csproj": {
-                "projectPath": "C:\\Users\\maria\\FoodCampus\\src\\Application\\FoodCampus.Application.csproj"
+              "C:\\Users\\maria\\ExamenPE\\src\\Application\\FoodCampus.Application.csproj": {
+                "projectPath": "C:\\Users\\maria\\ExamenPE\\src\\Application\\FoodCampus.Application.csproj"
               }
             }
           }

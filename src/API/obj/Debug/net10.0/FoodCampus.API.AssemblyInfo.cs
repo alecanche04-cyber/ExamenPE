@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FoodCampus.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34e5dbcb01f041ca18879b01dbfbe26fe8bca8ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("FoodCampus.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FoodCampus.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

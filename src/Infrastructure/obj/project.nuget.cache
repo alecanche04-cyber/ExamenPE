@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hoUcPo319ZY=",
+  "dgSpecHash": "ioHNoj/2I+s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\maria\\FoodCampus\\src\\Infrastructure\\FoodCampus.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\maria\\ExamenPE\\src\\Infrastructure\\FoodCampus.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maria\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\maria\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

@@ -28,3 +28,6 @@ FoodCampus es un proyecto desarrollado bajo los principios de **Clean Architectu
 
 ## Notas de Desarrollo
 - La capa **API** solo tiene referencia a **Application** para mantener la inversión de dependencias. Para registrar los servicios de **Infrastructure**, se recomienda el uso de ensamblados o una pequeña modificación según el entorno de despliegue.
+
+## Enlace de Referencia
+- [Ver video de referencia](https://youtu.be/h1a3JqkxV2s?si=-zW96fPyzlKKqAEH)

@@ -24,7 +24,7 @@ public class FoodCampusDbContextFactory : IDesignTimeDbContextFactory<FoodCampus
             "Data Source=ExamenPE.mssql.somee.com;" +
             "Initial Catalog=ExamenPE;" +
             "User Id=AleUTM;" +
-            "Password=4qsRMippJN77K@3;" +
+            "Password=12345678910;" +
             "TrustServerCertificate=True;";
 
         optionsBuilder.UseSqlServer(
